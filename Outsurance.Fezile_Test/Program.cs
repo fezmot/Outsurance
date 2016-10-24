@@ -10,6 +10,7 @@ namespace Outsurance.Fezile_Test
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
